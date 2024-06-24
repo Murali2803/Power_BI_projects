@@ -25,7 +25,7 @@ The Home Page provides an overview of the entire company's attrition metrics, in
 - **Attrition by Years at Company**: Attrition count based on the number of years employees have been with the company.
 - **Attrition by Job Role**: Breakdown of attrition by job roles.
 
-![Home Page]()
+![Home Page](HR Dashboard Screenshot/Home page.png)
 
 #### Human Resources
 
