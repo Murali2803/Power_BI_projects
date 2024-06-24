@@ -1,77 +1,92 @@
+# HR Analytics Dashboard
 
-HR Analytics Dashboard
+## Overview
+The HR Analytics Dashboard provides a comprehensive view of employee attrition in the Sales department. It is designed to help HR managers and company executives understand key metrics related to employee turnover, including attrition rates by age, education, salary, job role, and years at the company.
 
-Overview
-The HR Analytics Dashboard is a tool designed to provide insights into employee attrition across different departments within a company. The dashboard visualizes various metrics and key performance indicators (KPIs) related to attrition, such as average age, average salary, attrition rate, and more. The dashboard is divided into three main sections: Home Page, Human Resources, and Research & Development.
+## Key Metrics
 
-Dashboard Sections
-Home Page
-The Home Page provides an overview of the entire company's attrition metrics, including:
+- **Total Employees**: 446
+- **Total Attrition**: 92
+- **Attrition Rate**: 20.6%
+- **Average Age**: 37 years
+- **Average Salary**: $7,000
+- **Average Years with Company**: 7.3 years
 
-Count of Employees: Total number of employees.
-Attrition: Total number of employees who left the company.
-Attrition Rate: Percentage of employees who left.
-Average Age: Average age of employees.
-Average Salary: Average salary of employees.
-Average Years: Average number of years employees have been with the company.
-Attrition by Age: Breakdown of attrition by age group.
-Attrition by Education: Breakdown of attrition by educational background.
-Attrition by Salary Slab: Breakdown of attrition by salary ranges.
-Attrition by Years at Company: Attrition count based on the number of years employees have been with the company.
-Attrition by Job Role: Breakdown of attrition by job roles.
+## Breakdown of Attrition
 
-Human Resources
-The Human Resources section focuses on the HR department, displaying specific metrics such as:
+### By Education
+- Marketing: 38%
+- Life Sciences: 32%
+- Medical: 15%
+- Technical Degree: 11%
 
-Count of Employees: Total number of HR employees.
-Attrition: Total number of HR employees who left.
-Attrition Rate: Percentage of HR employees who left.
-Average Age: Average age of HR employees.
-Average Salary: Average salary of HR employees.
-Average Years: Average number of years HR employees have been with the company.
-Attrition by Age: Breakdown of HR attrition by age group.
-Attrition by Education: Breakdown of HR attrition by educational background.
-Attrition by Salary Slab: Breakdown of HR attrition by salary ranges.
-Attrition by Years at Company: HR attrition count based on the number of years employees have been with the company.
-Attrition by Job Role: Breakdown of HR attrition by job roles.
+### By Age Group
+- 26-35: 41 employees
+- 18-25: 18 employees
+- 46-55: 17 employees
+- 36-45: 16 employees
+- 55+: 0 employees
 
-Research & Development
-The Research & Development (R&D) section provides metrics specific to the R&D department, including:
+### By Salary Slab
+- Up to $5k: 43 employees
+- $5k-$10k: 36 employees
+- $10k-$15k: 11 employees
+- $15k+: 2 employees
 
-Count of Employees: Total number of R&D employees.
-Attrition: Total number of R&D employees who left.
-Attrition Rate: Percentage of R&D employees who left.
-Average Age: Average age of R&D employees.
-Average Salary: Average salary of R&D employees.
-Average Years: Average number of years R&D employees have been with the company.
-Attrition by Age: Breakdown of R&D attrition by age group.
-Attrition by Education: Breakdown of R&D attrition by educational background.
-Attrition by Salary Slab: Breakdown of R&D attrition by salary ranges.
-Attrition by Years at Company: R&D attrition count based on the number of years employees have been with the company.
-Attrition by Job Role: Breakdown of R&D attrition by job roles.
+### By Years at Company
+- 0-1 years: 17 employees
+- 2-3 years: 7 employees
+- 4-5 years: 2 employees
+- 6-7 years: 5 employees
+- 8-9 years: 2 employees
+- 10+ years: 2 employees
+
+### By Gender
+- Male: 50 employees
+- Female: 35 employees
+
+### By Job Role
+- Sales Executive: 57 employees
+- Sales Representative: 33 employees
+- Manager: 2 employees
+
+## How to Use the Dashboard
+1. **Filter by Department**: Select the desired department to view specific data.
+2. **Analyze Key Metrics**: Review overall attrition rates, average age, salary, and tenure.
+3. **Dive into Details**: Use the breakdowns to understand attrition patterns by various categories.
+
+## Installation
+To run this dashboard locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/hr-analytics-dashboard.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd hr-analytics-dashboard
+    ```
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run the dashboard:
+    ```bash
+    python app.py
+    ```
+
+## Contributing
+Contributions are welcome! Please create a new branch for your feature or bugfix and submit a pull request for review.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or concerns, please open an issue or contact the project maintainer.
+
+---
+
+Feel free to customize this README file further based on any additional information or specific details you would like to include.
 
 
-Sales
-The Sales section focuses on the Sales department, displaying specific metrics such as:
-
-Count of Employees: Total number of Sales employees.
-Attrition: Total number of Sales employees who left.
-Attrition Rate: Percentage of Sales employees who left.
-Average Age: Average age of Sales employees.
-Average Salary: Average salary of Sales employees.
-Average Years: Average number of years Sales employees have been with the company.
-Attrition by Age: Breakdown of Sales attrition by age group.
-Attrition by Education: Breakdown of Sales attrition by educational background.
-Attrition by Salary Slab: Breakdown of Sales attrition by salary ranges.
-Attrition by Years at Company: Sales attrition count based on the number of years employees have been with the company.
-Attrition by Job Role: Breakdown of Sales attrition by job roles.
-
-
-
-
-Usage
-To use the HR Analytics Dashboard, navigate to the respective sections to view detailed metrics and insights for the entire company or specific departments. The visualizations provide a clear understanding of the attrition trends and can help in identifying areas that need attention.
-
-Contributing
-Contributions to the HR Analytics Dashboard are welcome. Please create a pull request with a detailed description of your changes.
 
