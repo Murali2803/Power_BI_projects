@@ -59,7 +59,7 @@ The Research & Development (R&D) section provides metrics specific to the R&D de
 - **Attrition by Years at Company**: R&D attrition count based on the number of years employees have been with the company.
 - **Attrition by Job Role**: Breakdown of R&D attrition by job roles.
 
-![Research & Development](./mnt/data/Research%20&%20Development.png)
+![Research & Development](https://github.com/Murali2803/Power_BI_projects/blob/main/HR%20Dashboard%20Screenshot/Research%20%26%20Development.png)
 
 #### Sales
 
