@@ -76,7 +76,7 @@ The Sales section focuses on the Sales department, displaying specific metrics s
 - **Attrition by Years at Company**: Sales attrition count based on the number of years employees have been with the company.
 - **Attrition by Job Role**: Breakdown of Sales attrition by job roles.
 
-![Sales](./mnt/data/Sales.png)
+![Sales](https://github.com/Murali2803/Power_BI_projects/blob/main/HR%20Dashboard%20Screenshot/Sales.png)
 
 ### Usage
 
