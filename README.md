@@ -42,7 +42,7 @@ The Human Resources section focuses on the HR department, displaying specific me
 - **Attrition by Years at Company**: HR attrition count based on the number of years employees have been with the company.
 - **Attrition by Job Role**: Breakdown of HR attrition by job roles.
 
-![Human Resources](./mnt/data/Human%20Resources.png)
+![Human Resources](https://github.com/Murali2803/Power_BI_projects/blob/main/HR%20Dashboard%20Screenshot/Human%20Resources.png)
 
 #### Research & Development
 
