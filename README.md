@@ -1,5 +1,6 @@
 
-#HR Analytics Dashboard
+HR Analytics Dashboard
+
 Overview
 The HR Analytics Dashboard is a tool designed to provide insights into employee attrition across different departments within a company. The dashboard visualizes various metrics and key performance indicators (KPIs) related to attrition, such as average age, average salary, attrition rate, and more. The dashboard is divided into three main sections: Home Page, Human Resources, and Research & Development.
 
